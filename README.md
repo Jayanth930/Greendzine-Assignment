@@ -57,19 +57,19 @@ This is an example of how to list things you need to use the software and how to
 ![Register](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/1b9454c6-bad0-4ca1-9cf6-7ba8d3560145)
 
 
-
-3. After registration It directs to Login Page ![Login page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/cdba210a-f8d9-4c87-af23-25a330dcb5b3)
+3. After registration It directs to Login Page
+![Login page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/cdba210a-f8d9-4c87-af23-25a330dcb5b3)
 
 **STEP-2**
 
 ![For Incorect Credentials it shows](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/de084f74-8802-4de1-91bc-1670d2422747)
 
-  
-6. On successful Login U will be redirected to home/productivity page ![Productivity page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/5258d140-9144-4dab-a20d-88eff2f393ba)
+6. On successful Login U will be redirected to home/productivity page 
+![Productivity page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/5258d140-9144-4dab-a20d-88eff2f393ba)
 
 
 **STEP-3**
-![click on contact button to go Emplyee Search Bar](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/ff66c593-74f9-4a24-bbd7-0d757b8a224b)
+![Employee List](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/ff66c593-74f9-4a24-bbd7-0d757b8a224b)
 
 
 
