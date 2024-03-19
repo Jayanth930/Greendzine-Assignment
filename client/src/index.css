@@ -1,0 +1,315 @@
+@font-face {
+    font-family: 'Mulish';
+    src: url('https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOfFJQ6HTY.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('https://fonts.gstatic.com/s/sourcesans3/v15/nwpMtKy2OAdR1K-IwhWudF-R3woqZOLY1HY.woff2') format('woff2');
+}
+
+
+.font-mulish {
+    font-family: 'Mulish', sans-serif;
+}
+
+.font-source-sans {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height : 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*----------------Login component----------------*/
+.layout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+    height : 650px;
+    /* UI Properties */
+    background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border-radius: 28px;
+    opacity: 1; 
+    position: relative;
+}
+.brand{
+    position: absolute;
+    top : 160px;
+    width: 90px;
+    height: 90px;
+    /* UI Properties */
+    background: transparent url('../public/assets/Group 3.png') 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    opacity: 1;
+}
+
+
+
+.text{
+    position: absolute;
+    top: 267px;
+    text-align: center;
+    font: normal normal normal 16px/21px Mulish;
+    letter-spacing: 0.02px;
+    color: #36A546CC;
+    opacity: 1;
+}
+
+.incorrect-credentials{
+    position: absolute;
+    top: 330px;
+    text-align: center;
+    font: normal normal normal 16px/21px Mulish;
+    font-size: 1.2rem;
+    letter-spacing: 0.02px;
+    opacity: 1;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.name{
+    position: absolute;
+    top: 336px;
+}
+.dob{
+    position: absolute;
+    top: 386px;
+}
+.email{
+    position: absolute;
+    top: 426px;
+    
+}
+.password{
+    position: absolute;
+    top: 466px;
+  
+}
+.role{
+    position: absolute;
+    top: 506px;
+}
+
+.register-btn{
+    position : absolute;
+    top: 546px;
+    width : 238px;
+    height: 42px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 0.02px;
+    font: normal normal bold 16px/21px Mulish;
+    border-radius: 20px;
+    color : #FFFFFF8C;
+    cursor: pointer;
+}
+
+input{
+    width: 238px;
+    background: #1F191966 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+    mix-blend-mode: normal;
+    opacity: 1;
+    text-align: center;
+    border: 2px solid #8CFF0026;
+    border-radius: 20px;
+    padding : 8px;
+    color : #FFFFFF8C;
+
+}
+input::placeholder{
+    font-weight : bold;
+    font-size : 14px;
+    color : #FFFFFF8C;
+    letter-spacing: 0.98000000px;
+    line-height : 19px;
+}
+
+
+.login-btn{
+    position : absolute;
+    top: 501px;
+    width : 238px;
+    height: 42px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 0.02px;
+    font: normal normal bold 16px/21px Mulish;
+    border-radius: 20px;
+    color : #FFFFFF8C;
+    cursor: pointer;
+}
+.forget-password-link{
+    position: absolute;
+    top: 560px;
+    text-align: center;
+    font: normal normal normal 15px/20px Mulish;
+    letter-spacing: 0.02px;
+    color: #36A546;
+    opacity: 1;
+}
+
+.register{
+    position: absolute;
+    top : 600px;
+    text-align: center;
+    font: normal normal normal 15px/20px Mulish;
+    letter-spacing: 0.02px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+/*----------------Login component----------------*/
+
+/*-------------------------Layout--------------------*/
+.helpdesk{
+    position : absolute;
+    top : 44px;
+    right: 22px;
+    align-self: flex-end;
+    width: 80px;
+    height : 80px;
+    background: transparent url('../public/assets/Group\ 46@2x.png') 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+}
+
+.motopro-logo{
+    position : absolute;
+    top : 104px;
+    height : 70px;
+    width: 71px;
+    /* UI Properties */
+    background: transparent url('../public/assets/moptro\ logo.png') 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    opacity: 1;
+}
+
+h3{
+    width: 328px;
+    padding-top : 9px;
+    padding-left : 6px;
+    padding-bottom: 11px;
+    background: #1A2C2C99 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    opacity: 1;
+    color : #FFFFFFB3;
+    letter-spacing: 0.8px;
+    text-align : center;
+    border-radius: 15px;
+}
+
+.layout-btn{
+    position: absolute;
+    bottom: 0;
+    background: transparent linear-gradient(262deg, #0F2323 0%, #0F2323 40%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    opacity: 1;
+    filter: blur(1px);
+    width: 50%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.layout-btn.active svg{
+    transform : translateY(-10%);
+    filter : brightness(170%);
+}
+
+.home{
+    left : 0;
+}
+
+/*-------------------------Layout--------------------*/
+
+
+/*------------Productivitylayout-----------------*/
+.productivity-layout{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top : 213px;
+    background: #5E5E5E82 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 4px 0px #00000040;
+    mix-blend-mode: normal;
+    border-radius: 10px;
+}
+
+.progress-bar{
+    width : 60%; 
+    height : 11px;
+    border : 1px solid #36A54680;
+    border-radius : 1px
+}
+
+
+
+/*------------Productivitylayout-----------------*/
+
+/*------------EmployeeList-----------------*/
+.list{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top : 213px;
+    mix-blend-mode: normal;
+    border-radius: 10px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+    color : #FFFFFF8C;
+    margin: 15px;
+}
+
+.employee-count{
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size : 15px;
+    width: 20px;
+    height : 20px;
+    border-radius: 50%;
+    border : 1px solid #FFFFFF;
+}
+
+.list-btn{
+    width : 80px;
+    height: 30px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 0.02px;
+    font: normal normal bold 16px/21px Mulish;
+    border-radius: 20px;
+    color : #FFFFFF8C;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: auto;
+}
+
+/*------------EmployeeList-----------------*/
