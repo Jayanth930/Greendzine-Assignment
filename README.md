@@ -53,7 +53,10 @@ This is an example of how to list things you need to use the software and how to
 1. Startup with this Link Frontend [Frontend Register Page](https://greendzine-assignment-frontend.onrender.com/register)
 <br>
 **STEP-1**
+
 ![Register](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/1b9454c6-bad0-4ca1-9cf6-7ba8d3560145)
+
+
 
 3. After registration It directs to Login Page ![Login page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/cdba210a-f8d9-4c87-af23-25a330dcb5b3)
 
