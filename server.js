@@ -6,7 +6,7 @@ const port = process.env.PORT;
 const app = express();
 const { User  , authenticateUser} = require('./db/User')
 app.use(cors({
-    origin : ["https://greendzine-assignment-frontend.onrender.com"]
+    origin : "https://greendzine-assignment-frontend.onrender.com"
 }));
 app.use(express.json());
 
