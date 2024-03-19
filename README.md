@@ -54,24 +54,22 @@ This is an example of how to list things you need to use the software and how to
 <br>
 **STEP-1**
 ![Register](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/1b9454c6-bad0-4ca1-9cf6-7ba8d3560145)
-<br>
+
 3. After registration It directs to Login Page ![Login page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/cdba210a-f8d9-4c87-af23-25a330dcb5b3)
-)
-<br>
+
 **STEP-2**
+
 ![For Incorect Credentials it shows](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/de084f74-8802-4de1-91bc-1670d2422747)
 
-
-<br>
   
 6. On successful Login U will be redirected to home/productivity page ![Productivity page](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/5258d140-9144-4dab-a20d-88eff2f393ba)
 
-<br>
 
 **STEP-3**
 ![click on contact button to go Emplyee Search Bar](https://github.com/Jayanth930/Greendzine-Assignment/assets/88278632/ff66c593-74f9-4a24-bbd7-0d757b8a224b)
 
-<br>
+
+
 
 
 
