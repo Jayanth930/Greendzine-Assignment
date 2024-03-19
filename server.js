@@ -18,6 +18,10 @@ mongoose.connect(process.env.MONGODB_URL).then(()=>{
     console.error(`Error connected to db + ${err.message}`);
 })
 
+app.get("/",(req,res)=>{
+    res.send("Hello world");
+})
+
 
 app.post('/register', async (req,res)=>{
     const userData = req.body;
